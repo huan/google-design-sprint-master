@@ -2,12 +2,12 @@
 
 Sprint Master is a five-day process for solving problems and testing new ideas.
 
-![Google Experts Sprint Master Academy](https://huan.github.io/sprint-master/images/sprint-master-academy.png)
+![Google Experts Sprint Master Academy](docs/images/sprint-master-academy.png)
 
 > Sprint - How to solve big problems and test new ideas in just 5 days.  
 > 冲刺！ - 五天：从面临挑战到验证解决方案
 
-![Google Experts Sprint Master Academy](https://huan.github.io/sprint-master/images/google-experts-sprint-master-academy-2018.jpg)
+![Google Experts Sprint Master Academy](docs/images/google-experts-sprint-master-academy-2018.jpg)
 
 ## RESOURCES
 
