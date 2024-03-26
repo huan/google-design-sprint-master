@@ -32,7 +32,7 @@ To become a Recognized Design Sprint Master, you need knowledge gained from the 
 
 ## AUTHOR
 
-[Huan Li](http://linkedin.com/in/huan42), Google Design Sprint Master, Certified by Google Expert Design Sprint Master Academy, March 15, 2019; Chief Coach & Co-founder of [Venture Sprint](https://venturesprint.net)
+[Huan Li](http://linkedin.com/in/huan42), Design Sprint Master, Certified by Google Expert Design Sprint Master Academy, March 15, 2019; Chief Coach & Co-founder of [Venture Sprint](https://venturesprint.net)
 
 ## COPYRIGHT & LICENSE
 
