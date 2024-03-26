@@ -30,7 +30,7 @@ Sprint Master is a five-day process for solving problems and testing new ideas.
 
 ## COPYRIGHT & LICENSE
 
-* Code & Docs © 2016-now Huan LI \<zixia@zixia.net\>
+* Code & Docs © 2016-now Huan Li \<huan@chatie.io\>
 * Code released under the Apache-2.0 License
 * Docs released under Creative Commons
 
